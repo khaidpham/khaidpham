@@ -21,9 +21,9 @@
 ### 🔹 [Cypress Test Framework](https://github.com/khaidpham/cypress-tests)
 📊 Starter test framework for testing wep applications  
 ⚙️ Built with Node.js + JavaScript  
-📈 Page objects
-🔧 Integrated with GitHub Actions, Cypress Cloud
-✅ Shared as a external module
+📈 Page objects  
+🔧 Integrated with GitHub Actions, Cypress Cloud  
+✅ Shared as a external module  
 
 
 ## 📚 Featured Posts and Presentations
