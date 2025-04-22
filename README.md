@@ -18,6 +18,14 @@
 ⚙️ Built with Node.js + TypeScript  
 📈 Page objects, Authentication
 
+### 🔹 [Cypress Test Framework](https://github.com/khaidpham/cypress-tests)
+📊 Starter test framework for testing wep applications  
+⚙️ Built with Node.js + JavaScript  
+📈 Page objects
+🔧 Integrated with GitHub Actions, Cypress Cloud
+✅ Shared as a external module
+
+
 ## 📚 Featured Posts and Presentations
 - [When I felt in love with TestCafe, now Playwright feelds like Deja Vu](https://www.linkedin.com/posts/khaipham_testcafe-cypress-playwright-activity-7313560797530476544-2253)
 - [Selenium to Testcafe Automation Framework](https://github.com/khaidpham/presentations/blob/main/Selenium-to-Testcafe-automation-framework.pdf)
