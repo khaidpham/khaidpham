@@ -35,6 +35,7 @@
 ## ✅ Certifications
 - [Learning Playwright](https://www.linkedin.com/learning/certificates/8ee47070c73074330afff61e970da6eb967ca2134dc5ceb25804269b645a0e61)
 - [Playwright: Design Patterns](https://www.linkedin.com/learning/certificates/a3a560b233e235102ccf76a3b3bfabb60be6b854564c2f6062e3142299bbf42c)
+- [End-to-End JavaScript Testing with Cypress.io](https://www.linkedin.com/learning/certificates/a8a7256bd0a3447a20ae96aded6495866dfd8c2bd465e49b626b54489ed84385)  
 - [Prompt Engineering: How to talk to the AIs](https://www.linkedin.com/learning/certificates/0746cc6e01a337113a6ed7091153afb9d40edcdce6ee524c01edf93e2ca2dd76)
 
 ## 🤝 Let's Connect
