@@ -25,6 +25,11 @@
 🔧 Integrated with GitHub Actions, Cypress Cloud  
 ✅ Shared as a external module  
 
+### 🔹 [K6 Load Tests](https://github.com/khaidpham/k6)
+🎯 Exercises all major HTTP methods: GET, POST, PUT, PATCH, DELETE  
+📊 Validates appropriate response fields and statuses  
+📈 Simulates user think time between each request  
+✅ Applies thresholds to ensure good performance (95% of requests < 400ms)  
 
 ## 📚 Featured Posts and Presentations
 - [When I felt in love with TestCafe, now Playwright feelds like Deja Vu](https://www.linkedin.com/posts/khaipham_testcafe-cypress-playwright-activity-7313560797530476544-2253)
