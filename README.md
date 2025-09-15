@@ -1,7 +1,8 @@
 # Hi, I'm Khai Pham 👋
 
-🚀 **SDET | Test Automation Architect | Quality Advocate**  
-🔍 I build automation frameworks, automate regression and end-to-end tests, and break things before users do  
+🚀 **SDET | Test Automation Architect | Define and implement a modern quality strategy with modern automation frameworks**  
+✅ I help leveraging AI to speed up test creation, execution, and root cause analysis
+🔍 I build frameworks that make new tests quick to write, easy to maintain, and simple to debug
 🔭 I’m currently working on Playwright tests for UI and API testing  
 
 ## 🛠️ Projects I'm proud of
